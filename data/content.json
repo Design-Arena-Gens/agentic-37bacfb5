@@ -1,0 +1,106 @@
+{
+  "lastUpdated": "2024-04-01T00:00:00.000Z",
+  "videos": [
+    {
+      "id": "first-chords",
+      "title": "First Guitar Chords for Complete Beginners",
+      "description": "Learn how to form and switch between the foundational chords: Em, G, C, and D.",
+      "url": "https://www.youtube.com/embed/TgeCkLTvah0",
+      "duration": "12:47",
+      "focus": "Chord Basics"
+    },
+    {
+      "id": "strumming-patterns",
+      "title": "Essential Strumming Patterns",
+      "description": "Practice the top four strumming patterns you will use on hundreds of songs.",
+      "url": "https://www.youtube.com/embed/q3G1x-Gv7L4",
+      "duration": "10:12",
+      "focus": "Rhythm"
+    },
+    {
+      "id": "tuning-guide",
+      "title": "How to Tune Your Guitar by Ear and App",
+      "description": "Step-by-step walkthrough on getting your guitar in tune using both digital and ear training methods.",
+      "url": "https://www.youtube.com/embed/zTCC1zqD5T0",
+      "duration": "8:05",
+      "focus": "Tuning"
+    },
+    {
+      "id": "switching-chords",
+      "title": "Switching Chords Smoothly in Songs",
+      "description": "Apply smart fingering strategies to switch chords without pauses.",
+      "url": "https://www.youtube.com/embed/pivDbH4rSxw",
+      "duration": "9:18",
+      "focus": "Transitions"
+    }
+  ],
+  "songs": [
+    {
+      "id": "riptide",
+      "title": "Riptide - Vance Joy",
+      "difficulty": "Beginner",
+      "description": "A staple beginner song with a relaxed groove using only three chords.",
+      "chords": ["Am", "G", "C"],
+      "tips": "Keep your strumming hand moving softly even when the rhythm pauses. Accent beats two and four."
+    },
+    {
+      "id": "wonderwall",
+      "title": "Wonderwall - Oasis",
+      "difficulty": "Easy",
+      "description": "An iconic tune to practice steady down-up strums and chord anchoring.",
+      "chords": ["Em7", "G", "Dsus4", "A7sus4", "Cadd9"],
+      "tips": "Leave your ring and pinky fingers anchored on the third fret of the B and high E strings."
+    },
+    {
+      "id": "stand-by-me",
+      "title": "Stand By Me - Ben E. King",
+      "difficulty": "Beginner",
+      "description": "Classic 50s progression that's perfect for practicing smooth chord transitions.",
+      "chords": ["G", "Em", "C", "D"],
+      "tips": "Think ahead: prepare the next chord shape just before you need it to keep the groove flowing."
+    },
+    {
+      "id": "perfect",
+      "title": "Perfect - Ed Sheeran",
+      "difficulty": "Intermediate",
+      "description": "Great for working on arpeggio fingerpicking and gentle dynamics.",
+      "chords": ["G", "Em", "C", "D", "G/B"],
+      "tips": "Try a thumb-index-middle ring picking pattern and let chords ring to create a lush sound."
+    }
+  ],
+  "textLessons": [
+    {
+      "id": "tuning-101",
+      "title": "Tuning 101: Staying in Pitch",
+      "readTime": "4 min read",
+      "highlights": [
+        "How to use standard tuning reference notes",
+        "Best free tuner apps for iOS and Android",
+        "Training your ears to recognize sharp and flat"
+      ],
+      "body": "Start by memorizing the reference notes E A D G B E (from thickest to thinnest string). Use a clip-on tuner or smartphone app to get close, then fine-tune by ear: pluck the string, listen for the pitch wobble, and turn the tuning key in micro adjustments. Practice with harmonics at the fifth and seventh frets to sharpen your ear for slight deviations."
+    },
+    {
+      "id": "strumming-flow",
+      "title": "Building Strumming Flow",
+      "readTime": "6 min read",
+      "highlights": [
+        "Down-up motion that never stops",
+        "Accenting beats to shape the groove",
+        "Practicing with a metronome"
+      ],
+      "body": "Your strumming hand should feel like a pendulum. Keep it moving evenly, even when you skip a stroke, so timing stays consistent. Accent with slightly stronger down strums on beats two and four. Practice against a metronome at 70 bpm, then gradually increase to 120 bpm for popular songs."
+    },
+    {
+      "id": "chord-switching",
+      "title": "Faster Chord Switching",
+      "readTime": "5 min read",
+      "highlights": [
+        "Map common finger anchors",
+        "Drill small motion exercises",
+        "Plan ahead for the next chord"
+      ],
+      "body": "Identify fingers that stay on the same string between chords. Practice 'hover' drills: move between two chords slowly, keeping fingers close to the strings. Count '1-2-switch-4' to time your movement right before the beat. Start with G to C transitions, then tackle E minor to F major for more challenge."
+    }
+  ]
+}

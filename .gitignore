@@ -915,3 +915,9 @@ config/database.yml
 *.zip
 
 # ===== END =====
+
+# Allow shared guitar content data
+!data/
+!data/content.json
+!package.json
+!tsconfig.json
